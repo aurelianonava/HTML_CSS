@@ -3,6 +3,11 @@
 
 **Variables**
 
+
+>>I went to wak Escooby today to the park.
+1.  lkjfdlaskj
+2.  lkajsdflkasj
+
 Variable dog is assigned the value Escooby Doo. Quotation marks are used to denote strings. Type this in file.js. 
 
 `
