@@ -27,7 +27,7 @@ By running html page and right-clicking mouse button, selecting Inspect, then th
 ![alt text](images/img_01.png)
 
 
-Next: (to be completed on next push)
+Next: (to be completed on next push)...
 
 console.log("I am " + dog); //prints I am Escooby Doo. Concatenation, the + symbol, is used to add strings together.
 
