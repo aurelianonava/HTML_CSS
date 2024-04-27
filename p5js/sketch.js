@@ -1,14 +1,14 @@
 
 
 function setup() {
-  createCanvas(1200, 1200);
+  createCanvas(1600, 1600);
 }
 
 function draw() {
   if (mouseIsPressed) {
-    fill(0);
+    fill(125);
   } else {
-    fill(255);
+    fill(165);
   }
   rect(mouseX, mouseY, 80, 80);
 }
