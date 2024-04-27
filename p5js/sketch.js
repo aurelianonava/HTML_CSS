@@ -3,7 +3,7 @@ function setup() {
 }
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1200, 1200);
 }
 
 function draw() {
